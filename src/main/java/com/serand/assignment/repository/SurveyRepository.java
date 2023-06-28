@@ -10,4 +10,6 @@ import java.util.List;
 public interface SurveyRepository extends MongoRepository<Survey, String> {
 
     List<Survey> findByCompanyId(String companyId);
+
+    Survey findByName(String surveyName);
 }

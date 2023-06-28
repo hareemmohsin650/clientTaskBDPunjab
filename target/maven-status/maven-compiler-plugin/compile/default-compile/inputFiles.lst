@@ -1,0 +1,11 @@
+/Users/fatimaikram/clientBDTask/assignment/src/main/java/com/serand/assignment/repository/CandidateRepository.java
+/Users/fatimaikram/clientBDTask/assignment/src/main/java/com/serand/assignment/model/Candidate.java
+/Users/fatimaikram/clientBDTask/assignment/src/main/java/com/serand/assignment/dto/SurveyCompletionRequest.java
+/Users/fatimaikram/clientBDTask/assignment/src/main/java/com/serand/assignment/repository/SurveyRepository.java
+/Users/fatimaikram/clientBDTask/assignment/src/main/java/com/serand/assignment/controller/SurveyController.java
+/Users/fatimaikram/clientBDTask/assignment/src/main/java/com/serand/assignment/AssignmentApplication.java
+/Users/fatimaikram/clientBDTask/assignment/src/main/java/com/serand/assignment/model/Job.java
+/Users/fatimaikram/clientBDTask/assignment/src/main/java/com/serand/assignment/controller/CandidateController.java
+/Users/fatimaikram/clientBDTask/assignment/src/main/java/com/serand/assignment/repository/CompanyRepository.java
+/Users/fatimaikram/clientBDTask/assignment/src/main/java/com/serand/assignment/model/Survey.java
+/Users/fatimaikram/clientBDTask/assignment/src/main/java/com/serand/assignment/model/Company.java
