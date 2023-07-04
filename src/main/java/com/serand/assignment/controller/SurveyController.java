@@ -67,7 +67,7 @@ public class SurveyController {
     @PostMapping("/company/createSurvey")
     public  ResponseEntity<Candidate> createSurvey(@RequestBody SurveyCompletionRequest surveyCompletionRequest)
     {
-        Candidate candidate = this.candidateRepository.findById(surveyCompletionRequest.getSurveyId()).orElseThrow(() -> {
+        Candidate candidate = this.candidateRepository.findById(surveyCompletionRequest.getId()).orElseThrow(() -> {
             try {
                 throw new Exception();
             } catch (Exception e) {
